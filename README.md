@@ -14,10 +14,13 @@ I'm Mykola, a passionate web developer with expertise in building scalable and h
 ![Spring Boot](https://skillicons.dev/icons?i=spring)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Docker](https://skillicons.dev/icons?i=docker)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 ![WooCommerce](https://skillicons.dev/icons?i=wordpress)
 
 ## 🔨 Workspace
 ![Windows](https://skillicons.dev/icons?i=windows)
+![Linux](https://skillicons.dev/icons?i=linux)
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
