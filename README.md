@@ -14,8 +14,7 @@ I'm Mykola, a passionate web developer with expertise in building scalable and h
 ![Spring Boot](https://skillicons.dev/icons?i=spring)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Docker](https://skillicons.dev/icons?i=docker)
-![WooCommerce](https://skillicons.dev/icons?i=woocommerce)
-![Shopify](https://skillicons.dev/icons?i=shopify)
+![WooCommerce](https://skillicons.dev/icons?i=wordpress)
 
 ## 🔨 Workspace
 ![Windows](https://skillicons.dev/icons?i=windows)
