@@ -11,7 +11,7 @@ I'm Mykola, a passionate web developer with expertise in building scalable and h
 ![Java](https://skillicons.dev/icons?i=java)
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Spring Boot](https://skillicons.dev/icons?i=springboot)
+![Spring Boot](https://skillicons.dev/icons?i=spring)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![WooCommerce](https://skillicons.dev/icons?i=woocommerce)
@@ -21,6 +21,6 @@ I'm Mykola, a passionate web developer with expertise in building scalable and h
 ![Windows](https://skillicons.dev/icons?i=windows)
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
-![IntelliJ IDEA](https://skillicons.dev/icons?i=intellij)
+![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
 
 🚀 Always open to collaboration on interesting projects!
