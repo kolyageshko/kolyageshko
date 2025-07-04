@@ -7,7 +7,7 @@ I'm Mykola, a passionate web developer with expertise in building scalable and h
 - Experienced in frontend and backend development
 - Passionate about clean code, performance, and scalability
 
-## 💻 Skills
+## Skills
 ![Java](https://skillicons.dev/icons?i=java)
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
@@ -18,7 +18,7 @@ I'm Mykola, a passionate web developer with expertise in building scalable and h
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 ![WooCommerce](https://skillicons.dev/icons?i=wordpress)
 
-## 🔨 Workspace
+## Workspace
 ![Windows](https://skillicons.dev/icons?i=windows)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
