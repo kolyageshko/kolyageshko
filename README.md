@@ -1,7 +1,3 @@
-# Hi there 👋
-
-I'm Mykola, a passionate web developer with expertise in building scalable and high-performance web applications.
-
 ## About Me
 - Web development specialist focused on modern technologies
 - Experienced in frontend and backend development
